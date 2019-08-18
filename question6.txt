@@ -2,3 +2,6 @@ Question 6
 
 How are you feeling about Git now? -J
 
+I'm feeling pretty good. I would like to gain more knowledge of GitHub, but that will come with practice. 
+
+
